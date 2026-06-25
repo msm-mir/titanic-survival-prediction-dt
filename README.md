@@ -13,7 +13,7 @@ The objective of this project is to build a predictive model using passengers da
 ## Pipeline Workflow
 
 ### 1. Data Loading
-- Loading Datasets as Pandas DataFrames from the local directory
+- Loading Datasets as Pandas DataFrames from the local directory.
 
 ### 2. Exploratory Data Analysis
 - Visualizing survival distributions using `seaborn.countplot`
